@@ -1,5 +1,5 @@
 ######################## Week 3, Assignment 2: Lexical Scoping #####################
-
+ 
 
 ## These two functions were created to save processing time when repeatedly solving
 ## the same matrix inversion. Instead of computing a solution every time it is needed,
